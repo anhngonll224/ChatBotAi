@@ -2,7 +2,7 @@ const QUAN_LY_TAI_KHOAN = "/admin_chatbot"
 const HOME = "/admin_chatbot"
 const ROUTER = {
   SVG_VIEWER: "/svg-viewer",
-  HOME: "/admin_chatbot",
+  HOME: "/",
   DANG_NHAP: `${HOME}/dang-nhap`,
   DANG_KY: `${HOME}/dang-ky`,
   DOI_MAT_KHAU: `${HOME}/doi-mat-khau`,
